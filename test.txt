@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 2
+=======
+>>>>>>> trrrr
 sww12
 ddddddddddddddddd
 sssssssssss
